@@ -1,5 +1,5 @@
 import React from 'react';
-import './Css/Style.css'
+import './Header.css'
 import image1 from './Images/chatbot2.avif'
 
 const Header = () => {

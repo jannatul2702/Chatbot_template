@@ -1,0 +1,22 @@
+.msg_card_body{
+    overflow-y: auto;
+    }
+.msg_cotainer{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    border-radius: 25px;
+    background-color: #9ce3f3;
+    padding: 10px;
+    position: relative;
+    }
+
+    .msg_cotainer_send{
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-right: 10px;
+        border-radius: 25px;
+        background-color: #f8f6fa;
+        padding: 10px;
+        position: relative;
+        }

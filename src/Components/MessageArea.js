@@ -1,4 +1,5 @@
 import React from 'react';
+import './MessageArea.css';
 
 const MessageArea = () => {
     return (

@@ -1,4 +1,5 @@
 import React from 'react';
+import './Css/Style.css'
 import Header from './Header';
 import MessageArea from './MessageArea';
 import UserInput from './UserInput';
@@ -17,9 +18,12 @@ const Chatbot = () => {
                     </div>
                 </div>
             </div> */}
+            <div class="chat_window">
             <Header/>
             <MessageArea/>
             <UserInput/>
+            </div>
+            
         </div>
     );
 };
